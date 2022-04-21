@@ -6,4 +6,4 @@ test:
   image: alpine
   script:
     - apk add curl
-    - curl https://gboreczek.github.io/cicdassign2_2.github.io/ grep -q "CICD"
+    - curl https://gboreczek.github.io/cicdassign2_2.github.io/ | grep -q "CICD"
