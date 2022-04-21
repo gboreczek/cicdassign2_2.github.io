@@ -1,2 +1,0 @@
-siema eniu
-dobry murzyn
